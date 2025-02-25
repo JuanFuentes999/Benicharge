@@ -1,1 +1,2 @@
-import streamlit as st
+npm install
+npm run dev
